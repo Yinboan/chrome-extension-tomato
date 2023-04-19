@@ -1,0 +1,21 @@
+{
+    "manifest_version": 3,
+      "name": "番茄助手",
+      "version": "0.1.0",
+      "description": "番茄运营后台插件",
+      "permissions": ["storage", "tabs"],
+      "icons": {
+          "16": "/icons/1.jpeg",
+          "48": "/icons/1.jpeg",
+          "128": "/icons/1.jpeg"
+      },
+      "action": {
+          "default_icon": {
+              "16": "/icons/1.jpeg",
+              "24": "/icons/1.jpeg",
+              "32": "/icons/1.jpeg"
+          },
+          "default_title": "番茄助手",
+          "default_popup": "index.html"
+      }
+  }
